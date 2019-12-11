@@ -1,5 +1,7 @@
 # Real-Time Embeded System Computer Assignment 1
-This computer assignment is an introduction to motors in arduino which contains of arduino code and proteus simulation It has three main parts : 
+This computer assignment is an introduction to motors in arduino which contains of arduino code and proteus simulation.
+
+It has three main parts : 
 
 
 1. `DC Motor` 
